@@ -49,15 +49,15 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnansai&show_icons=true&locale=en&layout=compact"
- alt="krishnansai" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=sudalaimanis&show_icons=true&locale=en&layout=compact"
+ alt="sudalaimanis" /></p>
 
 <br />
 
 <p>&nbsp;<img 
 align="center" 
-src="https://github-readme-stats.vercel.app/api?username=krishnansai&show_icons=true&locale=en"
- alt="krishnansai" /></p>
+src="https://github-readme-stats.vercel.app/api?username=sudalaimanis&show_icons=true&locale=en"
+ alt="sudalaimanis" /></p>
 
 
 
